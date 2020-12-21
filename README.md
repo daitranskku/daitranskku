@@ -1,6 +1,10 @@
 # Welcome to my page :smiley:
 My name is Dai Quoc Tran, from September 2018, I started MS/Ph.D course at the Department of Civil and Environmental Engineering, Sungkyunkwan University, Korea.
 
+**Research Interest:** :star:
+- Deep learning application for non-destructive evaluation using ultrasonic laser-generated
+- Damage-map estimation using UAV images and deep learning algorithms
+
 **FYI:** :airplane:
 
 - **Research Gate:** https://goo.gl/Rb8P78
