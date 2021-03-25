@@ -13,6 +13,6 @@ My name is Dai Quoc Tran, from September 2018, I started MS/Ph.D course at the D
 
 - **Linkdln:** https://www.linkedin.com/in/dai-quoc-tran-092579116/
 
-- **Email:** [daitran@skku.edu](daitran@skku.edu)
+- **Email:** [daitran@skku.edu](daitran@skku.edu); [daitran@smartinside.ai](daitran@smartinside.ai)
 
 - **Website:** https://sites.google.com/view/daiquoctran
