@@ -1,5 +1,5 @@
 ## **About Me**  
-I am a Ph.D. student in [Department of Civil and Environmental Engineering, Sungkyunkwan University, Korea.](skku.edu)   
+I am a Ph.D. student in [Department of Civil and Environmental Engineering, Sungkyunkwan University, Korea.]([skku.edu](https://www.skku.edu/skku/index.do))   
 Email: daitran at skku dot edu  
 Linkedin: [link](https://www.linkedin.com/in/dai-quoc-tran-092579116/)  
 Google scholar: [link](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en)
