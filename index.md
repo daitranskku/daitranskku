@@ -1,4 +1,5 @@
 # **Dai Quoc Tran**  
+*Working to improve safety in construction sites using deep learning-based computer vision.*
 ## **About Me**  
 I'm a Ph.D. student in [Department of Civil and Environmental Engineering, Sungkyunkwan University, Korea.]([skku.edu](https://www.skku.edu/skku/index.do))   
 [Email](daitran@skku.edu) - [Linkedin](https://www.linkedin.com/in/dai-quoc-tran-092579116/)  
