@@ -2,15 +2,15 @@
 *Working to improve safety in construction sites using deep learning-based computer vision.*
 
 ## **About Me**  
-Ph.D. in Construction Engineering and Management.  
+Ph.D. in Construction Engineering and Management, [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Korea.   
 [Email](daitran@skku.edu) - [Linkedin](https://www.linkedin.com/in/dai-quoc-tran-092579116/)  
 
 ## **Reserach Interest**  
 I'm a big fan of deep learning-based computer vision and data analysis. The more data there is, the better.  
 
 ## **Experiences**  
-- [**Smart Construction IT Lab. - Postdoc Researcher - (March 2023 - Present)**](https://sites.google.com/view/skkuscit)  
-
+- [**Smart Construction IT Lab. - Postdoctoral Researcher - (March 2023 - Present)**](https://sites.google.com/view/skkuscit)  
+Develop an end-to-end deep learning-based computer vision system using multiple cameras to monitor construction site safety and progress.
 - [**SmartInside AI Co., Ltd - Team Lead - (February 2021 - Present)**](https://smartinside.ai/)  
 Implement and optimize deep learning-based object detection algorithms for
 detecting objects in construction sites using CCTV data. Develop modules for
