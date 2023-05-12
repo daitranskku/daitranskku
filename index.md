@@ -1,13 +1,11 @@
-# **Dai Quoc Tran**  
-*Working to improve safety in construction sites using deep learning-based computer vision.*
-
 ## **About Me**  
 Ph.D. in Construction Engineering and Management, [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Korea.   
 [Email](daitran@skku.edu) - [Linkedin](https://www.linkedin.com/in/dai-quoc-tran-092579116/)  
 
-## **Reserach Interest**  
+## **Research Interest**
+Working to improve safety in construction sites using deep learning-based computer vision.
 I'm a big fan of deep learning-based computer vision and data analysis. The more data there is, the better.  
-
+I'm also interested in the application of deep learning in the field of non-destructive testing and evaluation (NDT/NDE) and structural health monitoring (SHM).    
 ## **Experiences**  
 - [**Postdoctoral Researcher, Global Engineering Insitute for Ultimate Society (GENIUS), Sungkyunkwan University, Suwon, Korea - (March 2023 - Present)**](https://sites.google.com/view/skkuscit)  
 Develop an end-to-end deep learning-based computer vision system using multiple cameras to monitor construction site safety and progress.
