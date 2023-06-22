@@ -1,4 +1,4 @@
-## **About Me**  
+## **Dai Quoc Tran**  
 Ph.D. in Construction Engineering and Management, [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Korea.   
 [Email](daitran@skku.edu) - [Linkedin](https://www.linkedin.com/in/dai-quoc-tran-092579116/)  
 
@@ -22,15 +22,17 @@ structures.
 
 
 ## [**Publications**](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en)
-- **Dai Quoc Tran**, Yuntae Jeon, Jinyeong Bak, Minsoo Park, Jooho Shin, Kwanghoe Jung, Kyunghwi Heo and Seunghee Park† - [Semi-Supervised Domain Adaptation for Construction Vehicles and Signalman Detection using Real-time CCTV]() - Under Review
-- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Almo Senja Kuliman, Seunghee Park† - [Real-time monitoring unsafe behavious of portable multi-position ladder worker using deep learning based on vision data](Real-time monitoring unsafe behavious of portable multi-position ladder worker using deep learning based on vision data) - Under Review
+- **Dai Quoc Tran**, Yuntae Jeon, JinYeong Bak, Minsoo Park, Jooho Shin, Kwanghoe Jung, Kyunghwi Heo and Seunghee Park† - [Semi-Supervised Domain Adaptation for Construction Vehicles and Signalman Detection using Real-time CCTV]() - Under Review
+- **Dai Quoc Tran**, Yuntae Jeon, JinYeong Bak, Gichun Cha, Minsoo Park, and Seunghee Park† - [Image-to-Hazard: In-depth Context-Aware Multimodal for Construction Site Hazards Identification](https://github.com/daitranskku/Image2Hazard) - Under Review
 - Daniel Asefa Beyene, **Dai Quoc Tran**, Michael Bekele Maru, Huangrui, Seunghee Park† - [Unsupervised Domain Adaptation-Based Crack Segmentation Using Transformer Network](Unsupervised Domain Adaptation-Based Crack Segmentation Using Transformer Network) - Under Review
-- Yuntae Jeon, **Dai Quoc Tran**, Minsoo Park, and Seunghee Park† - [Leveraging Future Trajectory Prediction for Multi-Camera People Tracking](Leveraging Future Trajectory Prediction for Multi-Camera People Tracking) - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 
-- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Seunghee Park† - [Small and overlapping worker detection at construction sites](https://www.sciencedirect.com/science/article/pii/S0926580523001164) - Automation in Construction 151, 104856, 2022
-- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Seunghee Park† - [Advanced wildfire detection using generative adversarial network-based augmented datasets and weakly supervised object localization](https://www.sciencedirect.com/science/article/pii/S1569843222002400) - International Journal of Applied Earth Observation and Geoinformation, vol.114, 1569-8432, 2022
-- **Dai Quoc Tran**, Minsoo Park, Yunte Jeon, Jinyeong Park , and Seunghee Park† - [Forest-fire response system using deep-learning-based approaches with CCTV images and weather data](https://ieeexplore.ieee.org/document/9801825/authors#authors) - IEEE Access, vol. 10, pp. 66061-66071, 2022
-- **Dai Quoc Tran**, Minsoo Park, Daekyo Jung and Seunghee Park† - [Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System](https://doi.org/10.3390/rs12244169). Remote Sensing, Vol. 12, No. 24, pp. 1-17, December, 2020
-- **Dai Quoc Tran**, Ju-Won Kim, Kassahun Demissie Tola and Wonkyu Kim and Seunghee Park† - [Artificial Intelligence-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data](https://doi.org/10.3390/s20185329) Sensors, Vol.20, No.18, pp.5329, September, 2020
+
+- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Almo Senja Kuliman, Seunghee Park† - [Real-time monitoring unsafe behavious of portable multi-position ladder worker using deep learning based on vision data](Real-time monitoring unsafe behavious of portable multi-position ladder worker using deep learning based on vision data) - **Journal of Safety Research** - Accepted for publication.
+- Yuntae Jeon, **Dai Quoc Tran**, Minsoo Park, and Seunghee Park† - [Leveraging Future Trajectory Prediction for Multi-Camera People Tracking](Leveraging Future Trajectory Prediction for Multi-Camera People Tracking) - **2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)** 
+- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Seunghee Park† - [Small and overlapping worker detection at construction sites](https://www.sciencedirect.com/science/article/pii/S0926580523001164) - **Automation in Construction** 151, 104856, 2022
+- Minsoo, Park, **Dai Quoc Tran**, Jinyeong Bak, Seunghee Park† - [Advanced wildfire detection using generative adversarial network-based augmented datasets and weakly supervised object localization](https://www.sciencedirect.com/science/article/pii/S1569843222002400) - **International Journal of Applied Earth Observation and Geoinformation**, vol.114, 1569-8432, 2022
+- **Dai Quoc Tran**, Minsoo Park, Yunte Jeon, Jinyeong Park , and Seunghee Park† - [Forest-fire response system using deep-learning-based approaches with CCTV images and weather data](https://ieeexplore.ieee.org/document/9801825/authors#authors) - **IEEE Access**, vol. 10, pp. 66061-66071, 2022
+- **Dai Quoc Tran**, Minsoo Park, Daekyo Jung and Seunghee Park† - [Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System](https://doi.org/10.3390/rs12244169) - **Remote Sensing**, Vol. 12, No. 24, pp. 1-17, December, 2020
+- **Dai Quoc Tran**, Ju-Won Kim, Kassahun Demissie Tola and Wonkyu Kim and Seunghee Park† - [Artificial Intelligence-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data](https://doi.org/10.3390/s20185329) - **Sensors**, Vol.20, No.18, pp.5329, September, 2020
 
 ## **Awards**
 - First Prize: KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development · Nov 2021
