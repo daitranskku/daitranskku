@@ -36,6 +36,12 @@ Conducted research on object detection using deep learning and CCTV data for saf
 
 ---
 
+## **Projects**
+
+[![View Projects](https://img.shields.io/badge/View%20Projects-Click%20Here-blue)]({{ site.baseurl }}/projects)
+
+---
+
 ## **Awards**
 
 - **First Prize:** KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2021
@@ -61,3 +67,4 @@ Conducted research on object detection using deep learning and CCTV data for saf
 | Dai Quoc Tran, Minsoo Park, Yuntae Jeon, Jinyeong Park, and Seunghee Park† | Forest-fire response system using deep-learning-based approaches with CCTV images and weather data | IEEE Access | 2022 | [Link](https://ieeexplore.ieee.org/document/9801825/authors#authors) |
 | Dai Quoc Tran, Minsoo Park, Daekyo Jung, and Seunghee Park† | Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System | Remote Sensing | 2020 | [Link](https://doi.org/10.3390/rs12244169) |
 | Dai Quoc Tran, Ju-Won Kim, Kassahun Demissie Tola, Wonkyu Kim, and Seunghee Park† | AI-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data | Sensors | 2020 | [Link](https://doi.org/10.3390/s20185329) |
+
