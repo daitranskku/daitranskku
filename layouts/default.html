@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="Dai Quoc Tran">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
 </head>
 <body>
     <header>
@@ -19,5 +23,8 @@
     <main>
         {{ content }}
     </main>
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} Dai Quoc Tran. All rights reserved.</p>
+    </footer>
 </body>
 </html>
