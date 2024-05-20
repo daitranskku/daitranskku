@@ -25,4 +25,15 @@ title: "Projects"
     <img src="{{ site.baseurl }}/figures/project4.png" alt="Project 4">
     <h3>AI-based CCTV System for Monitoring Construction Sites</h3>
   </div>
+
+  <div class="project-item">
+    <img src="{{ site.baseurl }}/figures/project5.png" alt="Project 5">
+    <h3>AI-based CCTV System for Monitoring Construction Sites</h3>
+  </div>
+
+  <div class="project-item">
+    <img src="{{ site.baseurl }}/figures/project6.png" alt="Project 6">
+    <h3>AI-based CCTV System for Monitoring Construction Sites</h3>
+  </div>
+
 </div>
