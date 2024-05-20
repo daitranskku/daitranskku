@@ -34,18 +34,49 @@ Received a three-year project grant from the National Research Foundation of Kor
 
 ---
 
-## **Projects**
-
-[![View Projects](https://img.shields.io/badge/View%20Projects-Click%20Here-blue)]({{ site.baseurl }}/projects)
-
----
-
 ## **Awards**
 
 - **First Prize:** KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2021
 - **First Prize:** AI Championship 2022 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2022
 - **International Student Scholarship:** Issued by Sungkyunkwan University, Sep 2018
 - **JASSO Scholarship:** Issued by National Institute of Technology, Gifu College, Jul 2017
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td style="width: 50%;">
+      <h3>AI-based CCTV System for Monitoring Construction Sites</h3>
+      <img src="{{ site.baseurl }}/figures/project1.png" alt="Project 1" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <h3>Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets</h3>
+      <img src="{{ site.baseurl }}/figures/project2.png" alt="Project 2" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%;">
+      <h3>SSIMS.AI for SmartInside.AI</h3>
+      <img src="{{ site.baseurl }}/figures/project3.png" alt="Project 3" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <h3>Image-to-Hazard: GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data</h3>
+      <img src="{{ site.baseurl }}/figures/project4.png" alt="Project 4" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%;">
+      <h3>Forest-Fire Response System</h3>
+      <img src="{{ site.baseurl }}/figures/project5.JPG" alt="Project 5" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <h3>VQA-RESCon</h3>
+      <img src="{{ site.baseurl }}/figures/project6.png" alt="Project 6" style="width: 100%; max-width: 400px; height: auto;">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,4 +98,6 @@ Received a three-year project grant from the National Research Foundation of Kor
 | **Dai Quoc Tran**, Minsoo Park, Yuntae Jeon, Jinyeong Park, and Seunghee Park† | Forest-fire response system using deep-learning-based approaches with CCTV images and weather data | IEEE Access                                                           | 2022 | [Link](https://ieeexplore.ieee.org/document/9801825/authors#authors) |
 | **Dai Quoc Tran**, Minsoo Park, Daekyo Jung, and Seunghee Park† | Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System | Remote Sensing                                                        | 2020 | [Link](https://doi.org/10.3390/rs12244169) |
 | **Dai Quoc Tran**, Ju-Won Kim, Kassahun Demissie Tola, Wonkyu Kim, and Seunghee Park† | AI-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data | Sensors                                                               | 2020 | [Link](https://doi.org/10.3390/s20185329) |
+
+
 
