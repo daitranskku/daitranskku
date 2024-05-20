@@ -1,48 +1,6 @@
 ---
 layout: default
-title: "Dai Quoc Tran"
----
-
-# **Dai Quoc Tran**
-Ph.D. in Construction Engineering and Management, [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Korea.  
-[Email](mailto:daitran@skku.edu) - [LinkedIn](https://www.linkedin.com/in/dai-quoc-tran-092579116/) - [Google Scholar](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en) - [GitHub](https://github.com/daitranskku)
-
----
-
-## **Research Interest**
-My research focuses on improving safety in construction sites using deep learning-based computer vision. I am passionate about data analysis and the application of deep learning in non-destructive testing and evaluation (NDT/NDE) and structural health monitoring (SHM).
-
----
-
-## **Experiences**
-
-### [**Postdoctoral Researcher**](https://sites.google.com/view/skkuscit)
-**Global Frontiers of Resilient EcoSmart City, Sungkyunkwan University, Suwon, Korea (March 2023 - Present)**  
-Received a three-year project grant from the National Research Foundation of Korea (NRF) to develop an AI-based CCTV system for monitoring construction sites.  
-**Role:** Principal Investigator  
-**Budget:** 210,000,000 WON  
-![figure](./figures/nrf.png)
-
-### [**AI Team Lead**](https://smartinside.ai/)
-**SmartInside AI Co., Ltd, Suwon, Korea (February 2021 - Present)**  
-Implemented and optimized deep learning-based object detection algorithms for detecting objects in construction sites using CCTV data. Developed modules for extracting object features and ensemble models for specific case studies.
-
-### [**Research Assistant**](https://sites.google.com/view/skkuscit)
-**Smart Construction IT Lab., Sungkyunkwan University, Suwon, Korea (September 2018 - Feb. 2023)**  
-Conducted research on object detection using deep learning and CCTV data for safety management in construction. Used UAV images and weather data to estimate forest-fire damaged areas and developed deep learning models for damage detection in structures.
-
-### [**Research Assistant**](https://www.gifu-nct.ac.jp/)
-**National Institute of Technology, Gifu College, Gifu, Japan (August 2017)**
-
----
-
-## **Awards**
-
-- **First Prize:** KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2021
-- **First Prize:** AI Championship 2022 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2022
-- **International Student Scholarship:** Issued by Sungkyunkwan University, Sep 2018
-- **JASSO Scholarship:** Issued by National Institute of Technology, Gifu College, Jul 2017
-
+title: "Publications"
 ---
 
 ## **Publications**

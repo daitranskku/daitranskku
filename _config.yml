@@ -1,1 +1,21 @@
+title: "Dai Quoc Tran"
+email: "daitran@skku.edu"
+description: "Ph.D. in Construction Engineering and Management"
+baseurl:
+url: "https://daitranskku.github.io/daitranskku"
+github_username: daitranskku
+linkedin_username: dai-quoc-tran-092579116
+google_scholar_id: nr1jqx4AAAAJ
+twitter_username: # optional, add if you have a Twitter handle
+
+# Theme settings
 theme: jekyll-theme-cayman
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
