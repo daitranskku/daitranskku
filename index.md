@@ -35,7 +35,9 @@ Received a three-year project grant from the National Research Foundation of Kor
 ---
 
 ## **Awards**
-
+- **Top-5** AICity Challenge, CVPR 2024
+- **Top-3** VizWiz Grand Challenge, CVPR 2024
+- **Top-1** ICCV Workshop, Floor Plan Auto-Completion Challenge, Oct 2023
 - **First Prize:** KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2021
 - **First Prize:** AI Championship 2022 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2022
 - **International Student Scholarship:** Issued by Sungkyunkwan University, Sep 2018
