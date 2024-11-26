@@ -4,8 +4,9 @@ title: "Dai Quoc Tran"
 ---
 
 # **Dai Quoc Tran**
-Ph.D. in Construction Engineering and Management, [Sungkyunkwan University](https://www.skku.edu/eng/index.do), Korea.  
-[Email](mailto:daitran@skku.edu) - [LinkedIn](https://www.linkedin.com/in/dai-quoc-tran-092579116/) - [Google Scholar](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en) - [GitHub](https://github.com/daitranskku)
+Postdoc in Civil, Environmental and Construction Engineering at [University of Central Florida](ucf.edu), United States.
+
+[Email](mailto:quocdai.tran@ucf.edu) - [LinkedIn](https://www.linkedin.com/in/dai-quoc-tran-092579116/) - [Google Scholar](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en) - [GitHub](https://github.com/daitranskku)
 
 ---
 
@@ -15,16 +16,20 @@ My research is positioned at the intersection of transportation engineering, con
 ---
 
 ## **Experiences**
+### [**Postdoctoral Researcher**](https://smartsafe.ucf.edu/)
+**Department of Civil, Environmental and Construction Engineering, College of Engineering and Computer Science, University of Central Florida (November 2024 - Present)**
+
+Working with [Center for Smart Streetscapes (CS3)](https://cs3-erc.org/research/situational-awareness/), NSF Research Center.
 
 ### [**Postdoctoral Researcher**](https://sites.google.com/view/skkuscit)
-**Global Frontiers of Resilient EcoSmart City, Sungkyunkwan University, Suwon, Korea (March 2023 - Present)**  
+**Global Frontiers of Resilient EcoSmart City, Sungkyunkwan University, Suwon, Korea (March 2023 - November 2024)**  
 Received a three-year project grant from the National Research Foundation of Korea (NRF) to develop an AI-based CCTV system for monitoring construction sites.  
 **Role:** Principal Investigator  
 **Budget:** 210,000,000 WON  
 ![figure](./figures/nrf.png)
 
 ### [**AI Team Lead**](https://smartinside.ai/)
-**SmartInside AI Co., Ltd, Suwon, Korea (February 2021 - Present)**  
+**SmartInside AI Co., Ltd, Suwon, Korea (February 2021 - November 2024)**  
 
 ### [**Research Assistant**](https://sites.google.com/view/skkuscit)
 **Smart Construction IT Lab., Sungkyunkwan University, Suwon, Korea (September 2018 - Feb. 2023)**  
