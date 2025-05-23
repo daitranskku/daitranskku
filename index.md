@@ -11,9 +11,9 @@ Post Doctoral Scholar in Department of Civil, Environmental and Construction Eng
 ---
 
 ## **Research Interest**
-- Multi-modal data fusion and deep learning for safety monitoring in transportation systems.
-- AI-powered systems for hazard detection and behavior analysis in smart cities.
-- Computer vision and machine learning for construction site monitoring and worker safety.
+- Real-time safety intelligence for transportation networks through multimodal sensor fusion and deep learning. 
+- AI-enabled hazard detection and automated quality assurance that integrate non-destructive evaluation (NDE) and structural health monitoring (SHM). 
+- Vision-based analytics and machine learning for construction-site automation, worker safety, and productivity optimization. 
 
 ---
 
