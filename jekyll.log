@@ -1,0 +1,60 @@
+nohup: ignoring input
+Configuration file: /home/daitran/code/daitranskku/_config.yml
+            Source: /home/daitran/code/daitranskku
+       Destination: /home/daitran/code/daitranskku/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/convertible.rb:41: warning: Using the last argument as keyword parameters is deprecated
+       Jekyll Feed: Generating feed for posts
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+[33m     Build Warning: Layout 'page' requested in projects.md does not exist.[0m
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:194: warning: Using the last argument as keyword parameters is deprecated
+                    done in 0.087 seconds.
+/usr/lib/ruby/vendor_ruby/pathutil.rb:502: warning: Using the last argument as keyword parameters is deprecated
+ Auto-regeneration: enabled for '/home/daitran/code/daitranskku'
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+/usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:274: [BUG] Segmentation fault at 0x00000000d97e6110
+ruby 2.7.0p0 (2019-12-25 revision 647ee6f091) [x86_64-linux-gnu]
+
+-- Control frame information -----------------------------------------------
+c:0008 p:---- s:0040 e:000039 CFUNC  :fpathconf
+c:0007 p:0046 s:0034 e:000032 METHOD /usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:274
+c:0006 p:0003 s:0022 e:000021 METHOD /usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:242
+c:0005 p:0014 s:0018 e:000017 METHOD /usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:225
+c:0004 p:0023 s:0014 e:000013 METHOD /usr/lib/ruby/vendor_ruby/listen/adapter/linux.rb:39
+c:0003 p:0014 s:0010 e:000009 BLOCK  /usr/lib/ruby/vendor_ruby/listen/adapter/base.rb:78
+c:0002 p:0006 s:0006 e:000005 BLOCK  /usr/lib/ruby/vendor_ruby/listen/internals/thread_pool.rb:6 [FINISH]
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+-- Ruby level backtrace information ----------------------------------------
+/usr/lib/ruby/vendor_ruby/listen/internals/thread_pool.rb:6:in `block in add'
+/usr/lib/ruby/vendor_ruby/listen/adapter/base.rb:78:in `block in start'
+/usr/lib/ruby/vendor_ruby/listen/adapter/linux.rb:39:in `_run'
+/usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:225:in `run'
+/usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:242:in `process'
+/usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:274:in `read_events'
+/usr/lib/ruby/vendor_ruby/rb-inotify/notifier.rb:274:in `fpathconf'
+
+-- Machine register context ------------------------------------------------
+ RIP: 0x00000000d97e6110 RBP: 0x00005599eba1deb0 RSP: 0x00007f90d92a6898
+ RAX: 0x00000000d97e6110 RBX: 0x00007f90d93a6bc8 RCX: 0x00005599eba22cd0
+ RDX: 0x00007f90dd66d740 RDI: 0x0000000000000002 RSI: 0x00007f90d92a6e68
+  R8: 0x00005599eba22cd0  R9: 0x0000000000000000 R10: 0x0000000000000000
+ R11: 0x00007f90d97ea3c0 R12: 0x0000000000000002 R13: 0x00005599ebe61790
+ R14: 0x00005599ec537f88 R15: 0x00005599ec53a850 EFL: 0x0000000000010246
+
+-- C level backtrace information -------------------------------------------

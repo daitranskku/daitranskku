@@ -1,21 +1,27 @@
 title: "Dai Quoc Tran"
 email: "daitran@skku.edu"
-description: "Ph.D. in Construction Engineering and Management"
-baseurl:
-url: "https://daitranskku.github.io/daitranskku"
+description: "Postdoctoral Scholar in Construction Engineering and Management"
+baseurl: ""
+url: "https://daitranskku.github.io"
 github_username: daitranskku
 linkedin_username: dai-quoc-tran-092579116
 google_scholar_id: nr1jqx4AAAAJ
 twitter_username: # optional, add if you have a Twitter handle
 
-# Theme settings
+# Theme settings - using a more professional academic theme
+remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
 
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
 
-# Plugins (optional)
+# Plugins for better functionality
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site settings
+author: "Dai Quoc Tran"
+keywords: "construction engineering, computer vision, deep learning, safety, AI, research"
