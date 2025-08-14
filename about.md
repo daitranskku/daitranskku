@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "About"
 description: "Learn more about my academic background, research philosophy, and professional journey in AI and construction safety."
 ---

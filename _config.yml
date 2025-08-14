@@ -8,17 +8,12 @@ linkedin_username: dai-quoc-tran-092579116
 google_scholar_id: nr1jqx4AAAAJ
 twitter_username: # optional, add if you have a Twitter handle
 
-# Theme settings
+# Theme settings - Use basic theme
 theme: jekyll-theme-cayman
 
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
-
-# Plugins (optional)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # Site settings
 author:
@@ -28,3 +23,6 @@ author:
   location: "Orlando, FL, USA"
   institution: "University of Central Florida"
   department: "Department of Civil, Environmental and Construction Engineering"
+
+# Build settings
+exclude: [vendor]
