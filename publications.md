@@ -3,160 +3,19 @@ layout: default
 title: "Publications"
 ---
 
-# Publications
+## **Publications**
 
-## Journal Publications
-
-### 2025
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran†</strong>, Mohamed Abdel-Aty, Qianqian Jin, Younggun Kim, Zubayer Islam, Seunghee Park</div>
-  <div class="pub-title">Gated Kinematic–Visual Fusion for Right-Turn Pedestrian Conflict Risk Assessment</div>
-  <div class="pub-venue">IEEE Transactions on Intelligent Transportation Systems</div>
-  <div class="pub-year">2025 | <span class="status-under-review">Under Review</span></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran†</strong>, Mohamed Abdel-Aty, Younggun Kim, Ahmed Abdelrahman, Zubayer Islam</div>
-  <div class="pub-title">Region-Level Vision-Language Model for Detecting Distraction Behavior and Mobility Attributes of Vulnerable Road Users</div>
-  <div class="pub-venue">IEEE Transactions on Intelligent Transportation Systems</div>
-  <div class="pub-year">2025 | <span class="status-under-review">Under Review</span></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Armstrong Aboah, Yuntae Jeon, Minh-Truyen Do, Mohamed Abdel-Aty, Minsoo Park, Seunghee Park†</div>
-  <div class="pub-title">Visual Question Answering-based Referring Expression Segmentation for Construction Safety Analysis</div>
-  <div class="pub-venue">Automation in Construction</div>
-  <div class="pub-year">2025 | <a href="https://doi.org/10.1016/j.autcon.2025.106127" target="_blank">Published</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Yuntae Jeon, Armstrong Aboah, Jinyeong Bak, Minsoo Park, Seunghee Park†</div>
-  <div class="pub-title">Leveraging Semi-Supervised Learning for Domain Adaptation: Enhancing Safety at Construction Sites through Long-Tailed Object Detection</div>
-  <div class="pub-venue">ASCE's Journal of Construction Engineering and Management</div>
-  <div class="pub-year">2025 | <a href="https://ascelibrary.org/journal/jcemd4" target="_blank">Published</a></div>
-</div>
-
-### 2024
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Armstrong Aboah, Yuntae Jeon, Maged Shoman, Minsoo Park, Seunghee Park†</div>
-  <div class="pub-title">Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets</div>
-  <div class="pub-venue">CVPR Workshop 2024, Seattle, US</div>
-  <div class="pub-year">2024 | <strong>TOP5 Track 4</strong> | <a href="https://arxiv.org/abs/2404.10078" target="_blank">Paper</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Armstrong Aboah, Yuntae Jeon, Minsoo Park, Seunghee Park†</div>
-  <div class="pub-title">Vision-Language Model-based PolyFormer for Recognizing Visual Questions with Multiple Answer Groundings</div>
-  <div class="pub-venue">CVPR Workshop 2024, Seattle, US</div>
-  <div class="pub-year">2024 | <strong>TOP3 VizWiz Grand Challenge</strong> | <a href="https://github.com/daitranskku/VizWiz2024-VQA-AnswerTherapy" target="_blank">Code</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Yun Tae Jeon, Tae Heon Kim, Min Soo Park, Joo Ho Shin, Seunghee Park</div>
-  <div class="pub-title">Image-based object recognition method and system based on learning of environment variable data</div>
-  <div class="pub-venue">United States Patent</div>
-  <div class="pub-year">2024 | <a href="https://patents.google.com/patent/US20240078810A1/en" target="_blank">Patent</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Yuntae Jeon, and Seunghee Park†</div>
-  <div class="pub-title">Automatic Construction Safety Report using Visual Question Answering and Segmentation Model</div>
-  <div class="pub-venue">ICCCBE, Montreal, Canada</div>
-  <div class="pub-year">2024 | <a href="https://link.springer.com/chapter/10.1007/978-3-031-84224-5_25" target="_blank">Conference</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Yuntae Jeon, Minsoo Park, and Seunghee Park†</div>
-  <div class="pub-title">GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data</div>
-  <div class="pub-venue">ISARC 2024, Lille, France</div>
-  <div class="pub-year">2024 | <a href="https://www.iaarc.org/publications/" target="_blank">Conference</a></div>
-</div>
-
-### 2023
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Yuntae Jeon, Seongwoo Son, Minsoo Park, and Seunghee Park†</div>
-  <div class="pub-title">Identifying Hazards in Construction Sites Using Deep Learning-Based Multimodal with CCTV Data</div>
-  <div class="pub-venue">CONVR2023, Florence, Italy</div>
-  <div class="pub-year">2023 | <a href="http://dx.doi.org/10.36253/979-12-215-0289-3.61" target="_blank">Conference</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors">Daniel Asefa Beyene, <strong>Dai Quoc Tran</strong>, Michael Bekele Maru, Huangrui, Seunghee Park†</div>
-  <div class="pub-title">Unsupervised Domain Adaptation-Based Crack Segmentation Using Transformer Network</div>
-  <div class="pub-venue">Journal of Building Engineering</div>
-  <div class="pub-year">2023 | <a href="https://www.sciencedirect.com/science/article/pii/S2352710223020697" target="_blank">Published</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors">Minsoo Park, <strong>Dai Quoc Tran</strong>, Jinyeong Bak, Almo Senja Kuliman, Seunghee Park†</div>
-  <div class="pub-title">Real-time monitoring unsafe behaviours of portable multi-position ladder worker using deep learning based on vision data</div>
-  <div class="pub-venue">Journal of Safety Research</div>
-  <div class="pub-year">2023 | <span class="status-under-review">Under Review</span></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors">Yuntae Jeon, <strong>Dai Quoc Tran</strong>, Minsoo Park, and Seunghee Park†</div>
-  <div class="pub-title">Leveraging Future Trajectory Prediction for Multi-Camera People Tracking</div>
-  <div class="pub-venue">CVPRW 2023</div>
-  <div class="pub-year">2023 | <span class="status-under-review">Under Review</span></div>
-</div>
-
-### 2022
-<div class="publication-item">
-  <div class="pub-authors">Minsoo Park, <strong>Dai Quoc Tran</strong>, Jinyeong Bak, Seunghee Park†</div>
-  <div class="pub-title">Small and overlapping worker detection at construction sites</div>
-  <div class="pub-venue">Automation in Construction</div>
-  <div class="pub-year">2022 | <a href="https://www.sciencedirect.com/science/article/pii/S0926580523001164" target="_blank">Published</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors">Minsoo Park, <strong>Dai Quoc Tran</strong>, Jinyeong Bak, Seunghee Park†</div>
-  <div class="pub-title">Advanced wildfire detection using GAN-based augmented datasets and weakly supervised object localization</div>
-  <div class="pub-venue">International Journal of Applied Earth Observation and Geoinformation</div>
-  <div class="pub-year">2022 | <a href="https://www.sciencedirect.com/science/article/pii/S1569843222002400" target="_blank">Published</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Minsoo Park, Yuntae Jeon, Jinyeong Park, and Seunghee Park†</div>
-  <div class="pub-title">Forest-fire response system using deep-learning-based approaches with CCTV images and weather data</div>
-  <div class="pub-venue">IEEE Access</div>
-  <div class="pub-year">2022 | <a href="https://ieeexplore.ieee.org/document/9801825/authors#authors" target="_blank">Published</a></div>
-</div>
-
-### 2020
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Minsoo Park, Daekyo Jung, and Seunghee Park†</div>
-  <div class="pub-title">Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System</div>
-  <div class="pub-venue">Remote Sensing</div>
-  <div class="pub-year">2020 | <a href="https://doi.org/10.3390/rs12244169" target="_blank">Published</a></div>
-</div>
-
-<div class="publication-item">
-  <div class="pub-authors"><strong>Dai Quoc Tran</strong>, Ju-Won Kim, Kassahun Demissie Tola, Wonkyu Kim, and Seunghee Park†</div>
-  <div class="pub-title">AI-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data</div>
-  <div class="pub-venue">Sensors</div>
-  <div class="pub-year">2020 | <a href="https://doi.org/10.3390/s20185329" target="_blank">Published</a></div>
-</div>
-
----
-
-## Research Areas
-
-- **Computer Vision & Deep Learning**: Object detection, segmentation, visual question answering
-- **Construction Safety**: Hazard detection, worker monitoring, safety analytics
-- **Transportation Systems**: Pedestrian safety, conflict assessment, intelligent monitoring
-- **AI Applications**: Multimodal fusion, sensor integration, real-time analytics
-
----
-
-## Citation Metrics
-
-- **Google Scholar Citations**: [View Profile](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en)
-- **Research Areas**: Construction Engineering, Computer Vision, Transportation Safety
-- **Collaborations**: International research partnerships with institutions in Korea, Japan, and the United States
-
----
-
-<div class="view-all-link">
-  <a href="{{ site.baseurl }}/" class="btn btn-outline">← Back to Home</a>
-</div>
+| **Authors** | **Title** | **Publication/Conference** | **Year** | **Link** |
+|-------------|-----------|---------------------------|----------|----------|
+| Dai Quoc Tran, Yun Tae Jeon, Tae Heon Kim, Min Soo Park, Joo Ho Shin, Seunghee Park | Image-based object recognition method and system based on learning of environment variable data | United States Patent | 2024 | [Link](https://patents.google.com/patent/US20240078810A1/en) |
+| Dai Quoc Tran, Yuntae Jeon, and Seunghee Park† | Automatic Construction Safety Report using Visual Question Answering and Segmentation Model | ICCCBE, Montreal, Canada | 2024 | [Link](#) |
+| Dai Quoc Tran, Yuntae Jeon, Minsoo Park, and Seunghee Park† | GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data | ISARC 2024, Lille, France | 2024 | [Link](https://www.iaarc.org/publications/) |
+| Dai Quoc Tran, Yuntae Jeon, Seongwoo Son, Minsoo Park, and Seunghee Park† | Identifying Hazards in Construction Sites Using Deep Learning-Based Multimodal with CCTV Data | CONVR2023, Florence, Italy | 2023 | [Link](http://dx.doi.org/10.36253/979-12-215-0289-3.61) |
+| Daniel Asefa Beyene, Dai Quoc Tran, Michael Bekele Maru, Huangrui, Seunghee Park† | Unsupervised Domain Adaptation-Based Crack Segmentation Using Transformer Network | Journal of Building Engineering | 2023 | [Link](https://www.sciencedirect.com/science/article/pii/S2352710223020697) |
+| Minsoo Park, Dai Quoc Tran, Jinyeong Bak, Almo Senja Kuliman, Seunghee Park† | Real-time monitoring unsafe behaviours of portable multi-position ladder worker using deep learning based on vision data | Journal of Safety Research | 2023 | [Link](#) |
+| Yuntae Jeon, Dai Quoc Tran, Minsoo Park, and Seunghee Park† | Leveraging Future Trajectory Prediction for Multi-Camera People Tracking | CVPRW 2023 | 2023 | [Link](#) |
+| Minsoo Park, Dai Quoc Tran, Jinyeong Bak, Seunghee Park† | Small and overlapping worker detection at construction sites | Automation in Construction | 2022 | [Link](https://www.sciencedirect.com/science/article/pii/S0926580523001164) |
+| Minsoo Park, Dai Quoc Tran, Jinyeong Bak, Seunghee Park† | Advanced wildfire detection using GAN-based augmented datasets and weakly supervised object localization | International Journal of Applied Earth Observation and Geoinformation | 2022 | [Link](https://www.sciencedirect.com/science/article/pii/S1569843222002400) |
+| Dai Quoc Tran, Minsoo Park, Yuntae Jeon, Jinyeong Park, and Seunghee Park† | Forest-fire response system using deep-learning-based approaches with CCTV images and weather data | IEEE Access | 2022 | [Link](https://ieeexplore.ieee.org/document/9801825/authors#authors) |
+| Dai Quoc Tran, Minsoo Park, Daekyo Jung, and Seunghee Park† | Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System | Remote Sensing | 2020 | [Link](https://doi.org/10.3390/rs12244169) |
+| Dai Quoc Tran, Ju-Won Kim, Kassahun Demissie Tola, Wonkyu Kim, and Seunghee Park† | AI-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data | Sensors | 2020 | [Link](https://doi.org/10.3390/s20185329) |

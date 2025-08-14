@@ -1,407 +1,136 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
-// Custom variables
-:root {
-  --primary-color: #2c3e50;
-  --secondary-color: #3498db;
-  --accent-color: #e74c3c;
-  --text-color: #2c3e50;
-  --light-gray: #ecf0f1;
-  --border-color: #bdc3c7;
-  --success-color: #27ae60;
-  --warning-color: #f39c12;
-}
-
-// Global styles
+/* Add your custom styles here */
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  color: var(--text-color);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-// Profile header
-.profile-header {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-  color: white;
-  padding: 3rem 0;
-  margin: -2rem -2rem 2rem -2rem;
-  text-align: center;
+header {
+    background: #2c3e50;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
-.profile-name {
-  font-size: 3rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+nav ul {
+    list-style: none;
+    padding: 0;
 }
 
-.profile-title {
-  font-size: 1.5rem;
-  margin: 0 0 0.5rem 0;
-  opacity: 0.9;
+nav ul li {
+    display: inline;
+    margin: 0 10px;
 }
 
-.profile-institution {
-  font-size: 1.1rem;
-  margin: 0 0 0.5rem 0;
-  opacity: 0.8;
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
 }
 
-.profile-links {
-  margin-top: 2rem;
+main {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 1200px; /* Adjusted for better layout */
 }
 
-// Button styles
-.btn {
-  display: inline-block;
-  padding: 0.75rem 1.5rem;
-  margin: 0.5rem;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: 600;
-  transition: all 0.3s ease;
-  border: 2px solid transparent;
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background: #2c3e50;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
 }
 
-.btn-primary {
-  background-color: var(--accent-color);
-  color: white;
-  border-color: var(--accent-color);
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
 }
 
-.btn-primary:hover {
-  background-color: #c0392b;
-  border-color: #c0392b;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-.btn-secondary {
-  background-color: transparent;
-  color: white;
-  border-color: white;
-}
-
-.btn-secondary:hover {
-  background-color: white;
-  color: var(--primary-color);
-  transform: translateY(-2px);
-}
-
-.btn-outline {
-  background-color: transparent;
-  color: var(--secondary-color);
-  border-color: var(--secondary-color);
-}
-
-.btn-outline:hover {
-  background-color: var(--secondary-color);
-  color: white;
-  transform: translateY(-2px);
-}
-
-// Section headers
-h2 {
-  color: var(--primary-color);
-  border-bottom: 3px solid var(--secondary-color);
-  padding-bottom: 0.5rem;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
+td {
+    padding: 15px;
+    vertical-align: top;
+    text-align: center;
 }
 
 h3 {
-  color: var(--secondary-color);
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+    font-size: 1.25rem;
+    color: #2c3e50;
+    margin-top: 0;
 }
 
-// Achievements grid
-.achievements-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
 }
 
-.achievement-item {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 10px;
-  border-left: 4px solid var(--accent-color);
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease;
+.project-item {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.achievement-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+.project-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 15px;
 }
 
-.achievement-item h4 {
-  color: var(--accent-color);
-  margin: 0 0 0.5rem 0;
-  font-size: 1.1rem;
+.project-item h3 {
+    margin-top: 15px;
+    font-size: 1.25rem;
+    color: #2c3e50;
 }
 
-.achievement-item p {
-  margin: 0;
-  color: var(--text-color);
+.project-item p {
+    text-align: left;
+    margin-top: 10px;
+    font-size: 1rem;
 }
 
-// Publications section
-.publications-section {
-  margin: 2rem 0;
-}
+/* Responsive Design */
+@media (max-width: 600px) {
+    header {
+        padding: 0.5rem 0;
+    }
 
-.publication-item {
-  background: white;
-  padding: 1.5rem;
-  margin: 1rem 0;
-  border-radius: 8px;
-  border-left: 4px solid var(--secondary-color);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-}
+    h3 {
+        font-size: 1rem;
+    }
 
-.publication-item:hover {
-  transform: translateX(5px);
-  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-}
+    .project-item {
+        padding: 10px;
+    }
 
-.pub-authors {
-  font-weight: 600;
-  color: var(--primary-color);
-  margin-bottom: 0.5rem;
-}
+    .project-item h3 {
+        font-size: 1rem;
+    }
 
-.pub-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: var(--text-color);
-  margin-bottom: 0.5rem;
-  line-height: 1.4;
-}
-
-.pub-venue {
-  color: var(--secondary-color);
-  font-style: italic;
-  margin-bottom: 0.5rem;
-}
-
-.pub-year {
-  color: #7f8c8d;
-  font-size: 0.9rem;
-}
-
-.status-under-review {
-  background-color: var(--warning-color);
-  color: white;
-  padding: 0.2rem 0.5rem;
-  border-radius: 3px;
-  font-size: 0.8rem;
-  font-weight: 600;
-}
-
-// Projects grid
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin: 2rem 0;
-}
-
-.project-card {
-  background: white;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 3px 15px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-}
-
-.project-card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-.project-content {
-  padding: 1.5rem;
-}
-
-.project-content h4 {
-  color: var(--primary-color);
-  margin: 0 0 0.5rem 0;
-  font-size: 1.2rem;
-}
-
-.project-content p {
-  color: var(--text-color);
-  margin: 0;
-  line-height: 1.5;
-}
-
-// Large project cards for projects page
-.project-card-large {
-  background: white;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  margin: 2rem 0;
-  transition: all 0.3s ease;
-}
-
-.project-card-large:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 30px rgba(0,0,0,0.15);
-}
-
-.project-card-large img {
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-}
-
-.project-card-large .project-content {
-  padding: 2rem;
-}
-
-.project-card-large .project-content p {
-  font-size: 1.1rem;
-  line-height: 1.7;
-  margin-bottom: 1.5rem;
-  color: var(--text-color);
-}
-
-.project-tech {
-  background-color: var(--light-gray);
-  padding: 1rem;
-  border-radius: 8px;
-  border-left: 4px solid var(--success-color);
-  font-size: 0.95rem;
-  color: var(--text-color);
-}
-
-// Skills section
-.skills-section {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.skill-category {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border-left: 4px solid var(--success-color);
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-}
-
-.skill-category h4 {
-  color: var(--success-color);
-  margin: 0 0 0.5rem 0;
-  font-size: 1.1rem;
-}
-
-.skill-category p {
-  margin: 0;
-  color: var(--text-color);
-  line-height: 1.5;
-}
-
-// View all links
-.view-all-link {
-  text-align: center;
-  margin: 2rem 0;
-}
-
-// Responsive design
-@media (max-width: 768px) {
-  .profile-name {
-    font-size: 2rem;
-  }
-  
-  .profile-title {
-    font-size: 1.2rem;
-  }
-  
-  .achievements-grid,
-  .projects-grid,
-  .skills-section {
-    grid-template-columns: 1fr;
-  }
-  
-  .profile-links .btn {
-    display: block;
-    margin: 0.5rem auto;
-    max-width: 200px;
-  }
-  
-  .project-card-large img {
-    height: 200px;
-  }
-  
-  .project-card-large .project-content {
-    padding: 1.5rem;
-  }
-}
-
-// Table improvements
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1rem 0;
-}
-
-th, td {
-  border: 1px solid var(--border-color);
-  padding: 0.75rem;
-  text-align: left;
-}
-
-th {
-  background-color: var(--light-gray);
-  font-weight: 600;
-  color: var(--primary-color);
-}
-
-// Links
-a {
-  color: var(--secondary-color);
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: var(--accent-color);
-  text-decoration: underline;
-}
-
-// Code blocks
-pre, code {
-  background-color: var(--light-gray);
-  border-radius: 4px;
-  padding: 0.2rem 0.4rem;
-}
-
-pre {
-  padding: 1rem;
-  overflow-x: auto;
-}
-
-// Blockquotes
-blockquote {
-  border-left: 4px solid var(--secondary-color);
-  margin: 1rem 0;
-  padding-left: 1rem;
-  font-style: italic;
-  color: #7f8c8d;
+    .project-item p {
+        font-size: 0.875rem;
+    }
 }
