@@ -1,112 +1,163 @@
 ---
 layout: default
-title: "Dai Quoc Tran"
+title: "Dai Quoc Tran, Ph.D."
 ---
 
-# **Dai Quoc Tran**
-Post Doctoral Scholar in Department of Civil, Environmental and Construction Engineering at [University of Central Florida](ucf.edu), United States.
+# **Dai Quoc Tran, Ph.D.**
 
-[Email](mailto:quocdai.tran@ucf.edu) - [LinkedIn](https://www.linkedin.com/in/dai-quoc-tran-092579116/) - [Google Scholar](https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en) - [GitHub](https://github.com/daitranskku)
-
----
-
-## **Research Interest**
-- Real-time safety intelligence for transportation networks through multimodal sensor fusion and deep learning. 
-- AI-enabled hazard detection and automated quality assurance that integrate non-destructive evaluation (NDE) and structural health monitoring (SHM). 
-- Vision-based analytics and machine learning for construction-site automation, worker safety, and productivity optimization. 
-
----
-
-## **Experiences**
-### [**Post Doctoral Scholar**](https://smartsafe.ucf.edu/)
-**Department of Civil, Environmental and Construction Engineering, College of Engineering and Computer Science, University of Central Florida (November 2024 - Present)**
-
-Working with [Center for Smart Streetscapes (CS3)](https://cs3-erc.org/research/situational-awareness/), NSF Research Center.
-
-### [**Post Doctoral Scholar**](https://sites.google.com/view/skkuscit)
-**Global Frontiers of Resilient EcoSmart City, Sungkyunkwan University, Suwon, Korea (March 2023 - November 2024)**  
-Received a three-year project grant from the National Research Foundation of Korea (NRF) to develop an AI-based CCTV system for monitoring construction sites.  
-**Role:** Principal Investigator  
-**Budget:** 210,000,000 WON  
-![figure](./figures/nrf.png)
-
-### [**AI Team Lead**](https://smartinside.ai/)
-**SmartInside AI Co., Ltd, Suwon, Korea (February 2021 - November 2024)**  
-
-### [**KIC Tech Frontier**](https://haas.berkeley.edu/)
-**University of California, Berkeley, U.S. (August 2023)**  
-
-### [**Research Assistant**](https://sites.google.com/view/skkuscit)
-**Smart Construction IT Lab., Sungkyunkwan University, Suwon, Korea (September 2018 - Feb. 2023)**  
-
-### [**Research Assistant**](https://www.gifu-nct.ac.jp/)
-**National Institute of Technology, Gifu College, Gifu, Japan (August 2017)**
+<div style="text-align: center; margin-bottom: 2rem;">
+  <p style="font-size: 1.2rem; color: #666; margin-bottom: 1rem;">
+    <strong>Postdoctoral Scholar</strong><br>
+    Department of Civil, Environmental and Construction Engineering<br>
+    College of Engineering and Computer Science<br>
+    <a href="https://ucf.edu" style="color: #0366d6;">University of Central Florida</a>
+  </p>
+  
+  <div style="margin: 1.5rem 0;">
+    <a href="mailto:daitran@skku.edu" style="margin: 0 10px; padding: 8px 16px; background: #0366d6; color: white; text-decoration: none; border-radius: 4px;">Email</a>
+    <a href="https://www.linkedin.com/in/dai-quoc-tran-092579116/" style="margin: 0 10px; padding: 8px 16px; background: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=nr1jqx4AAAAJ&hl=en" style="margin: 0 10px; padding: 8px 16px; background: #4285f4; color: white; text-decoration: none; border-radius: 4px;">Google Scholar</a>
+    <a href="https://github.com/daitranskku" style="margin: 0 10px; padding: 8px 16px; background: #333; color: white; text-decoration: none; border-radius: 4px;">GitHub</a>
+  </div>
+</div>
 
 ---
 
-## **Awards**
-- **Top-5** AICity Challenge, CVPR 2024
-- **Top-3** VizWiz Grand Challenge, CVPR 2024
-- **Top-1** ICCV Workshop, Floor Plan Auto-Completion Challenge, Oct 2023
-- **First Prize:** KEPCO Section - AI Championship 2021 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2021
-- **First Prize:** AI Championship 2022 - Issued by Korea Institute of Startup & Entrepreneurship Development, Nov 2022
-- **International Student Scholarship:** Issued by Sungkyunkwan University, Sep 2018
-- **JASSO Scholarship:** Issued by National Institute of Technology, Gifu College, Jul 2017
+## **Research Focus**
+
+My research centers on **AI-enabled construction safety and intelligence** through multimodal sensor fusion and deep learning. I develop computer vision systems that integrate non-destructive evaluation (NDE) and structural health monitoring (SHM) for real-time hazard detection and automated quality assurance.
+
+### **Core Research Areas:**
+- **Computer Vision & AI** for construction site automation and worker safety
+- **Multimodal Sensor Fusion** for transportation network safety intelligence  
+- **Deep Learning** for structural health monitoring and quality assurance
+- **Real-time Analytics** for construction productivity optimization
 
 ---
 
-## Projects
+## **Current Position**
 
-<table>
-  <tr>
-    <td style="width: 50%;">
-      <h3>AI-based CCTV System for Monitoring Construction Sites</h3>
-      <img src="{{ site.baseurl }}/figures/project1.png" alt="Project 1" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-    <td style="width: 50%;">
-      <h3>Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets</h3>
-      <img src="{{ site.baseurl }}/figures/project2.png" alt="Project 2" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%;">
-      <h3>SSIMS.AI for SmartInside.AI</h3>
-      <img src="{{ site.baseurl }}/figures/project3.png" alt="Project 3" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-    <td style="width: 50%;">
-      <h3>Image-to-Hazard: GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data</h3>
-      <img src="{{ site.baseurl }}/figures/project4.png" alt="Project 4" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%;">
-      <h3>Forest-Fire Response System</h3>
-      <img src="{{ site.baseurl }}/figures/project5.JPG" alt="Project 5" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-    <td style="width: 50%;">
-      <h3>VQA-RESCon</h3>
-      <img src="{{ site.baseurl }}/figures/project6.png" alt="Project 6" style="width: 100%; max-width: 400px; height: auto;">
-    </td>
-  </tr>
-</table>
+### **[Postdoctoral Scholar](https://smartsafe.ucf.edu/)**
+**University of Central Florida** | November 2024 - Present
+
+Working with the [Center for Smart Streetscapes (CS3)](https://cs3-erc.org/research/situational-awareness/), an NSF Research Center focused on developing AI-powered infrastructure monitoring systems.
+
+---
+
+## **Recent Achievements**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 2rem 0;">
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #28a745;">
+  <h4 style="color: #28a745; margin-top: 0;">🏆 AICity Challenge 2024</h4>
+  <p><strong>Top-5</strong> in Track 4 - Low-Light Image Enhancement<br>
+  <em>CVPR 2024, Seattle, USA</em></p>
+</div>
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #007bff;">
+  <h4 style="color: #007bff; margin-top: 0;">🥉 VizWiz Grand Challenge 2024</h4>
+  <p><strong>Top-3</strong> in Visual Question Answering<br>
+  <em>CVPR 2024, Seattle, USA</em></p>
+</div>
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #ffc107;">
+  <h4 style="color: #ffc107; margin-top: 0;">🥇 ICCV Workshop 2023</h4>
+  <p><strong>First Place</strong> in Floor Plan Auto-Completion Challenge<br>
+  <em>ICCV 2023, Paris, France</em></p>
+</div>
+
+</div>
+
+---
+
+## **Featured Projects**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; margin: 2rem 0;">
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="{{ site.baseurl }}/figures/project1.png" alt="AI-based CCTV System" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
+  <h4 style="margin-top: 0; color: #24292e;">AI-based CCTV System for Construction Monitoring</h4>
+  <p style="color: #586069; font-size: 0.9rem;">Real-time safety monitoring using computer vision and deep learning for construction site hazard detection.</p>
+</div>
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="{{ site.baseurl }}/figures/project2.png" alt="Low-Light Enhancement" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
+  <h4 style="margin-top: 0; color: #24292e;">Low-Light Image Enhancement Framework</h4>
+  <p style="color: #586069; font-size: 0.9rem;">Advanced framework for improved object detection in challenging lighting conditions using fisheye lens datasets.</p>
+</div>
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="{{ site.baseurl }}/figures/project4.png" alt="GPT-based Hazard Detection" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
+  <h4 style="margin-top: 0; color: #24292e;">GPT-based Hazard Identification</h4>
+  <p style="color: #586069; font-size: 0.9rem;">AI-powered logic reasoning system for automatic hazard identification in construction sites using CCTV data.</p>
+</div>
+
+</div>
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="{{ site.baseurl }}/projects" style="padding: 12px 24px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">View All Projects →</a>
+</div>
 
 ---
 
 ## **Selected Publications**
 
-| **Authors**                                                                                | **Title**                                                                                                                              | **Publication/Conference**                                                                  | **Year** | **Link** |
-|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------|----------|
-| **Dai Quoc Tran†**, Mohamed Abdel-Aty, Qianqian Jin, Younggun Kim, Zubayer Islam, Seunghee Park | Gated Kinematic–Visual Fusion for Right-Turn Pedestrian Conflict Risk Assessment. | IEEE Transactions on Intelligent Transportation Systems                                   | 2025    | [Under Review]|
-| **Dai Quoc Tran†**, Mohamed Abdel-Aty, Younggun Kim, Ahmed Abdelrahman, Zubayer Islam | Region-Level Vision-Language Model for Detecting Distraction Behavior and Mobility Attributes of Vulnerable Road Users | IEEE Transactions on Intelligent Transportation Systems                               | 2025     | [Under Review] |
-| **Dai Quoc Tran**, Armstrong Aboah, Yuntae Jeon, Minh-Truyen Do, Mohamed Abdel-Aty, Minsoo Park, Seunghee Park† | Visual Question Answering-based Referring Expression Segmentation for Construction Safety Analysis | Automation in Construction                                   | 2025     | [Link](https://doi.org/10.1016/j.autcon.2025.106127) |
-| **Dai Quoc Tran**, Yuntae Jeon, Armstrong Aboah, Jinyeong Bak, Minsoo Park, Seunghee Park† | Leveraging Semi-Supervised Learning for Domain Adaptation: Enhancing Safety at Construction Sites through Long-Tailed Object Detection | ASCE's Journal of Construction Engineering and Management                                   | 2025     | [Link](https://ascelibrary.org/journal/jcemd4) |
-| **Dai Quoc Tran**, Armstrong Aboah, Yuntae Jeon, Maged Shoman, Minsoo Park, Seunghee Park† | Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets                                           | CVPRw 2024, Seattle, US - TOP5 Track 4                                                                   | 2024     | [Link](https://arxiv.org/abs/2404.10078) |
-| **Dai Quoc Tran**, Armstrong Aboah, Yuntae Jeon, Minsoo Park, Seunghee Park†               | Vision-Language Model-based PolyFormer for Recognizing Visual Questions with Multiple Answer Groundings                                | CVPRw 2024, Seattle, US - TOP3 VizWiz Grand Challenge                            | 2024     | [Link](https://github.com/daitranskku/VizWiz2024-VQA-AnswerTherapy) |
-| **Dai Quoc Tran**, Yun Tae Jeon, Tae Heon Kim, Min Soo Park, Joo Ho Shin, Seunghee Park    | Image-based object recognition method and system based on learning of environment variable data                                        | United States Patent                                                                        | 2024     | [Link](https://patents.google.com/patent/US20240078810A1/en) |
-| **Dai Quoc Tran**, Yuntae Jeon, and Seunghee Park†                                         | Automatic Construction Safety Report using Visual Question Answering and Segmentation Model                                            | ICCCBE, Montreal, Canada                                                                    | 2024     | [Link](https://link.springer.com/chapter/10.1007/978-3-031-84224-5_25) |
-| **Dai Quoc Tran**, Yuntae Jeon, Minsoo Park, and Seunghee Park†                            | GPT-based Logic Reasoning for Hazard Identification in Construction Site using CCTV Data                                               | ISARC 2024, Lille, France                                                                   | 2024     | [Link](https://www.iaarc.org/publications/) |
-| **Dai Quoc Tran**, Yuntae Jeon, Seongwoo Son, Minsoo Park, and Seunghee Park†              | Identifying Hazards in Construction Sites Using Deep Learning-Based Multimodal with CCTV Data                                          | CONVR2023, Florence, Italy                                                                  | 2023     | [Link](http://dx.doi.org/10.36253/979-12-215-0289-3.61) |
-| **Dai Quoc Tran**, Minsoo Park, Yuntae Jeon, Jinyeong Park, and Seunghee Park†             | Forest-fire response system using deep-learning-based approaches with CCTV images and weather data                                     | IEEE Access                                                                                 | 2022     | [Link](https://ieeexplore.ieee.org/document/9801825/authors#authors) |
-| **Dai Quoc Tran**, Minsoo Park, Daekyo Jung, and Seunghee Park†                            | Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System                                     | Remote Sensing                                                                              | 2020     | [Link](https://doi.org/10.3390/rs12244169) |
-| **Dai Quoc Tran**, Ju-Won Kim, Kassahun Demissie Tola, Wonkyu Kim, and Seunghee Park†      | AI-Based Bolt Loosening Diagnosis Using Deep Learning Algorithms for Laser Ultrasonic Wave Propagation data                            | Sensors                                                                                     | 2020     | [Link](https://doi.org/10.3390/s20185329) |
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 2rem 0;">
+  <h4 style="margin-top: 0; color: #24292e;">Recent Highlights</h4>
+  
+  <div style="margin: 15px 0; padding: 15px; background: white; border-radius: 6px; border-left: 4px solid #28a745;">
+    <p style="margin: 0; font-weight: 500;"><strong>Dai Quoc Tran†</strong>, Mohamed Abdel-Aty, Qianqian Jin, Younggun Kim, Zubayer Islam, Seunghee Park</p>
+    <p style="margin: 5px 0; color: #586069;"><em>Gated Kinematic–Visual Fusion for Right-Turn Pedestrian Conflict Risk Assessment</em></p>
+    <p style="margin: 5px 0; color: #0366d6;">IEEE Transactions on Intelligent Transportation Systems | 2025 | Under Review</p>
+  </div>
+  
+  <div style="margin: 15px 0; padding: 15px; background: white; border-radius: 6px; border-left: 4px solid #007bff;">
+    <p style="margin: 0; font-weight: 500;"><strong>Dai Quoc Tran</strong>, Armstrong Aboah, Yuntae Jeon, Minh-Truyen Do, Mohamed Abdel-Aty, Minsoo Park, Seunghee Park†</p>
+    <p style="margin: 5px 0; color: #586069;"><em>Visual Question Answering-based Referring Expression Segmentation for Construction Safety Analysis</em></p>
+    <p style="margin: 5px 0; color: #0366d6;">Automation in Construction | 2025 | <a href="https://doi.org/10.1016/j.autcon.2025.106127" style="color: #0366d6;">Published</a></p>
+  </div>
+</div>
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="{{ site.baseurl }}/publications" style="padding: 12px 24px; background: #28a745; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">View All Publications →</a>
+</div>
+
+---
+
+## **Research Experience**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 2rem 0;">
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <h4 style="margin-top: 0; color: #24292e;">🇰🇷 Sungkyunkwan University</h4>
+  <p><strong>Postdoctoral Scholar</strong> | March 2023 - November 2024</p>
+  <p style="color: #586069; font-size: 0.9rem;">Principal Investigator for NRF-funded AI-based CCTV monitoring system (210M KRW)</p>
+  <img src="{{ site.baseurl }}/figures/nrf.png" alt="NRF Grant" style="width: 100%; max-width: 200px; height: auto; margin-top: 10px;">
+</div>
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <h4 style="margin-top: 0; color: #24292e;">🏢 SmartInside AI</h4>
+  <p><strong>AI Team Lead</strong> | February 2021 - November 2024</p>
+  <p style="color: #586069; font-size: 0.9rem;">Led AI development team for construction safety and monitoring solutions</p>
+</div>
+
+<div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <h4 style="margin-top: 0; color: #24292e;">🎓 Ph.D. Research</h4>
+  <p><strong>Research Assistant</strong> | September 2018 - February 2023</p>
+  <p style="color: #586069; font-size: 0.9rem;">Smart Construction IT Lab, focusing on computer vision and AI for construction safety</p>
+</div>
+
+</div>
+
+---
+
+<div style="text-align: center; margin: 3rem 0; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+  <p style="margin: 0; font-size: 1.1rem; color: #586069;">
+    <strong>Interested in collaboration?</strong> I'm always open to discussing research opportunities, 
+    industry partnerships, and academic collaborations in AI and construction technology.
+  </p>
+  <p style="margin: 10px 0 0 0;">
+    <a href="mailto:daitran@skku.edu" style="color: #0366d6; text-decoration: none;">Get in touch →</a>
+  </p>
+</div>
 

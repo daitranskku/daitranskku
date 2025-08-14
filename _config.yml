@@ -1,8 +1,8 @@
-title: "Dai Quoc Tran"
+title: "Dai Quoc Tran, Ph.D."
 email: "daitran@skku.edu"
-description: "Ph.D. in Construction Engineering and Management"
-baseurl:
-url: "https://daitranskku.github.io/daitranskku"
+description: "Postdoctoral Scholar in Construction Engineering and Management - AI/Computer Vision for Construction Safety"
+baseurl: ""
+url: "https://daitranskku.github.io"
 github_username: daitranskku
 linkedin_username: dai-quoc-tran-092579116
 google_scholar_id: nr1jqx4AAAAJ
@@ -19,3 +19,12 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Site settings
+author:
+  name: "Dai Quoc Tran"
+  email: "daitran@skku.edu"
+  bio: "Postdoctoral Scholar in Construction Engineering and Management"
+  location: "Orlando, FL, USA"
+  institution: "University of Central Florida"
+  department: "Department of Civil, Environmental and Construction Engineering"
