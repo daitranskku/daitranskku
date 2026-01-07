@@ -57,9 +57,9 @@ title: "Dai Quoc Tran"
   <div class="experience-item">
     <div class="experience-header">
       <h3>Post Doctoral Scholar</h3>
-      <span class="experience-date">November 2024 - December 2025</span>
+      <span class="experience-date">November 2024 - November 2025</span>
     </div>
-    <p class="experience-institution">University of Central Florida (Center for Smart Streetscapes)</p>
+    <p class="experience-institution">University of Central Florida (Working with ERC Center for Smart Streetscapes)</p>
   </div>
 
   <div class="experience-item">
